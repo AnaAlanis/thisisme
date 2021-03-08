@@ -18,10 +18,12 @@ I am a big data nerd, completely obsessed with pragmatic and impact-driven resea
 
 #### Needs Assessments (United Nations, International Organization for Migration)
 Ciudad Juarez, Mexico
+
 Tijuana, Mexico
+
 Mexicali, Mexico
 
-##### Ethnography (University of Oxford)
+#### Ethnography (University of Oxford)
 Tlaxiaco, Mexico
 
 ### Translation
