@@ -19,6 +19,7 @@ I am a big data nerd, completely obsessed with pragmatic and impact-driven resea
 [(2020) Living Conditions and Needs of Individuals Under the Migrant Protection Protocols in Ciudad Juarez, Mexico](https://github.com/AnaAlanis/thisisme/files/6103672/Juarez.MPP.DTM.20.pdf)
 
 
+
 ### Fieldwork
 
 #### Needs Assessments (United Nations, International Organization for Migration)
@@ -32,7 +33,9 @@ I am a big data nerd, completely obsessed with pragmatic and impact-driven resea
 > *Tlaxiaco, Mexico*
 
 
+
 ### Translation & Legal
+
 
 
 ### Advocacy and Practical Applications
