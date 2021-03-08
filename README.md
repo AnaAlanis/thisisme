@@ -16,8 +16,7 @@ I am a big data nerd, completely obsessed with pragmatic and impact-driven resea
 
 ### Legal
 
-[Effects of COVID on the Migrant Population in Ciudad Juarez, Mexico
-United Nations, International Organization for Migration](https://github.com/AnaAlanis/thisisme/files/6103563/DTMJuarezCOVID.pdf)
+[Effects of COVID on the Migrant Population in Ciudad Juarez, Mexico](https://github.com/AnaAlanis/thisisme/files/6103563/DTMJuarezCOVID.pdf)
 
 ```markdown
 Syntax highlighted code block
