@@ -6,7 +6,6 @@ Before Oxford I worked with IOM, the United Nations migration agency, evaluating
 
 I am a big data nerd, completely obsessed with pragmatic and impact-driven research ideas. 
 
-&nbsp;
 ## Research and Publications
 &nbsp;
 
