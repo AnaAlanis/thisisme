@@ -8,6 +8,7 @@ I am a big data nerd, completely obsessed with pragmatic and impact-driven resea
 
 &nbsp;
 ## Research and Publications
+&nbsp;
 
 [(2021) Effects of COVID on the Migrant Population in Tijuana, Mexico](https://github.com/AnaAlanis/thisisme/files/6103666/Tijuana.COVID.DTM.21.pdf)
 
