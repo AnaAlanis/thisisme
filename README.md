@@ -6,13 +6,17 @@ Before Oxford I worked with IOM, the United Nations migration agency, evaluating
 
 I am a big data nerd, completely obsessed with pragmatic and impact-driven research ideas. 
 
-### Markdown
+## My Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Research
+
+### Fieldwork
+
+### Translation
+
+### Legal
 
 [DTMJuarezCOVID.pdf](https://github.com/AnaAlanis/thisisme/files/6103563/DTMJuarezCOVID.pdf)
-
-
 
 ```markdown
 Syntax highlighted code block
