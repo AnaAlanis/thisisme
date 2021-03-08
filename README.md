@@ -12,6 +12,8 @@ I am a big data nerd, completely obsessed with pragmatic and impact-driven resea
 
 ### Research
 
+[Effects of COVID on the Migrant Population in Tijuana, Mexico](https://github.com/AnaAlanis/thisisme/files/6103666/Tijuana.COVID.DTM.21.pdf)
+
 [Effects of COVID on the Migrant Population in Ciudad Juarez, Mexico](https://github.com/AnaAlanis/thisisme/files/6103563/DTMJuarezCOVID.pdf)
 
 
@@ -29,3 +31,7 @@ I am a big data nerd, completely obsessed with pragmatic and impact-driven resea
 
 
 ### Translation & Legal
+
+
+### Advocacy and Practical Applications
+
