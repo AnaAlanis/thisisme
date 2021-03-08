@@ -16,7 +16,7 @@ I am a big data nerd, completely obsessed with pragmatic and impact-driven resea
 
 [(2021)Effects of COVID on the Migrant Population in Ciudad Juarez, Mexico](https://github.com/AnaAlanis/thisisme/files/6103563/DTMJuarezCOVID.pdf)
 
-[Living Conditions and Needs of Individuals under the Migrant Protection Protocols in Ciudad Juarez, Mexico](https://github.com/AnaAlanis/thisisme/files/6103672/Juarez.MPP.DTM.20.pdf)
+[(2020) Living Conditions and Needs of Individuals Under the Migrant Protection Protocols in Ciudad Juarez, Mexico](https://github.com/AnaAlanis/thisisme/files/6103672/Juarez.MPP.DTM.20.pdf)
 
 
 ### Fieldwork
