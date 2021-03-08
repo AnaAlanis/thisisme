@@ -1,8 +1,10 @@
 ## Immigration - Human Rights - Children - Latin America
 
-I am a DPhil (PhD) student in Migration Studies at the University of Oxford. I research the long-term impacts of immigration on the educational outcomes of US-born students. 
+I am a DPhil (PhD) student in Migration Studies at the University of Oxford. My research examines the long-term impacts of immigration on the educational outcomes of US-born students. 
 
-Before Oxford, I worked with IOM, the United Nations migration agency, evaluating the living conditions and needs of migrants on the US - Mexico border. Ana has also completed an MSc in Migration Studies at the University of Oxford, during which she explored the aspiration and expectation-building processes of Central American immigrants en-route to the U.S.
+Before Oxford I worked with IOM, the United Nations migration agency, evaluating the living conditions and needs of migrants on the US - Mexico border. In the past, I have carried out extensive research on the aspiration and expectation-building processes of Central American immigrants en-route to the U.S.
+
+I am a big data nerd, completely obsessed with pragmatic and impact-driven research ideas. 
 
 ### Markdown
 
