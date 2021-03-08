@@ -6,7 +6,7 @@ Before Oxford I worked with IOM, the United Nations migration agency, evaluating
 
 I am a big data nerd, completely obsessed with pragmatic and impact-driven research ideas. 
 
-## My Experience
+## Experience
 
 ### Research
 
@@ -28,10 +28,3 @@ I am a big data nerd, completely obsessed with pragmatic and impact-driven resea
 
 #### Ethnography (University of Oxford)
 > *Tlaxiaco, Mexico*
-
-&nbsp;
-### Translation & Legal
-
-&nbsp;
-### Advocacy and Practical Applications
-
