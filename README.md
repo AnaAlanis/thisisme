@@ -17,8 +17,11 @@ I am a big data nerd, completely obsessed with pragmatic and impact-driven resea
 ### Fieldwork
 
 Needs Assessment (Ciudad Juárez, Mexico)
+
 Needs Assessment (Tijuana, Mexico)
+
 Needs Assessment (Mexicali, Mexico)
+
 Ethnography (Tlaxiaco, Mexico)
 
 ### Translation
