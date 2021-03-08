@@ -1,8 +1,8 @@
 ## Immigration - Human Rights - Children - Latin America
 
-You can use the [editor on GitHub](https://github.com/AnaAlanis/thisisme/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a DPhil (PhD) student in Migration Studies at the University of Oxford. I research the long-term impacts of immigration on the educational outcomes of US-born students. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Before Oxford, I worked with IOM, the United Nations migration agency, evaluating the living conditions and needs of migrants on the US - Mexico border. Ana has also completed an MSc in Migration Studies at the University of Oxford, during which she explored the aspiration and expectation-building processes of Central American immigrants en-route to the U.S.
 
 ### Markdown
 
