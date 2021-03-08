@@ -7,9 +7,8 @@ Before Oxford I worked with IOM, the United Nations migration agency, evaluating
 I am a big data nerd, completely obsessed with pragmatic and impact-driven research ideas. 
 
 ## My Experience
-
-
-
+&nbsp;
+&nbsp;
 ### Research
 
 [(2021) Effects of COVID on the Migrant Population in Tijuana, Mexico](https://github.com/AnaAlanis/thisisme/files/6103666/Tijuana.COVID.DTM.21.pdf)
@@ -17,8 +16,6 @@ I am a big data nerd, completely obsessed with pragmatic and impact-driven resea
 [(2021) Effects of COVID on the Migrant Population in Ciudad Juarez, Mexico](https://github.com/AnaAlanis/thisisme/files/6103563/DTMJuarezCOVID.pdf)
 
 [(2020) Living Conditions and Needs of Individuals Under the Migrant Protection Protocols in Ciudad Juarez, Mexico](https://github.com/AnaAlanis/thisisme/files/6103672/Juarez.MPP.DTM.20.pdf)
-
-
 
 ### Fieldwork
 
