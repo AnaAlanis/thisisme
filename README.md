@@ -6,9 +6,7 @@ Before Oxford I worked with IOM, the United Nations migration agency, evaluating
 
 I am a big data nerd, completely obsessed with pragmatic and impact-driven research ideas. 
 
-## Experience
-
-### Research
+## Research and Publications
 
 [(2021) Effects of COVID on the Migrant Population in Tijuana, Mexico](https://github.com/AnaAlanis/thisisme/files/6103666/Tijuana.COVID.DTM.21.pdf)
 
@@ -17,14 +15,14 @@ I am a big data nerd, completely obsessed with pragmatic and impact-driven resea
 [(2020) Living Conditions and Needs of Individuals Under the Migrant Protection Protocols in Ciudad Juarez, Mexico](https://github.com/AnaAlanis/thisisme/files/6103672/Juarez.MPP.DTM.20.pdf)
 
 &nbsp;
-### Fieldwork
+## Fieldwork
 
-#### Needs Assessments (United Nations, International Organization for Migration)
+### Needs Assessments (United Nations, International Organization for Migration)
 > *Ciudad Juarez, Mexico*
 
 > *Tijuana, Mexico*
 
 > *Mexicali, Mexico*
 
-#### Ethnography (University of Oxford)
+### Ethnography (University of Oxford)
 > *Tlaxiaco, Mexico*
