@@ -28,7 +28,4 @@ I am a big data nerd, completely obsessed with pragmatic and impact-driven resea
 > *Tlaxiaco, Mexico*
 
 
-### Translation
-
-
-### Legal
+### Translation & Legal
