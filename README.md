@@ -14,6 +14,7 @@ I am a big data nerd, completely obsessed with pragmatic and impact-driven resea
 
 [Effects of COVID on the Migrant Population in Ciudad Juarez, Mexico](https://github.com/AnaAlanis/thisisme/files/6103563/DTMJuarezCOVID.pdf)
 
+
 ### Fieldwork
 
 #### Needs Assessments (United Nations, International Organization for Migration)
@@ -26,6 +27,8 @@ Mexicali, Mexico
 #### Ethnography (University of Oxford)
 Tlaxiaco, Mexico
 
+
 ### Translation
+
 
 ### Legal
