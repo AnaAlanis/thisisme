@@ -16,17 +16,13 @@ I am a big data nerd, completely obsessed with pragmatic and impact-driven resea
 
 ### Fieldwork
 
-#### Needs Assessment (Ciudad Juárez, Mexico)
-United Nations, International Organization for Migration
+#### Needs Assessments (United Nations, International Organization for Migration)
+Ciudad Juarez, Mexico
+Tijuana, Mexico
+Mexicali, Mexico
 
-#### Needs Assessment (Tijuana, Mexico)
-United Nations, International Organization for Migration
-
-##### Needs Assessment (Mexicali, Mexico)
-United Nations, International Organization for Migration
-
-##### Ethnography (Tlaxiaco, Mexico)
-University of Oxford Research Project
+##### Ethnography (University of Oxford)
+Tlaxiaco, Mexico
 
 ### Translation
 
