@@ -1,5 +1,5 @@
 ---
-title: PAGE TITLE HERE
+title: Researhc and Publications
 layout: template
 filename: Research and Publications
 --- 
