@@ -9,6 +9,8 @@ I am a big data nerd, completely obsessed with pragmatic and impact-driven resea
 ## Research and Publications
 &nbsp;
 
+[(2021) Effects of COVID on the Migrant Population in Puebla, Mexico](https://github.com/AnaAlanis/thisisme/files/6167373/DTM_PUEBLA_COVID.Final.20210317.pdf)
+
 [(2021) Effects of COVID on the Migrant Population in Mexicali, Mexico](https://github.com/AnaAlanis/thisisme/files/6140597/DTM_MEXICALI_COVID.Final.pdf)
 
 [(2021) Effects of COVID on the Migrant Population in Tijuana, Mexico](https://github.com/AnaAlanis/thisisme/files/6103666/Tijuana.COVID.DTM.21.pdf)
